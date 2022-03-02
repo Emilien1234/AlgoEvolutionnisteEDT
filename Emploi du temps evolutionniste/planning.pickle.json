@@ -1,0 +1,2429 @@
+[
+    [
+        [
+            [
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        8,
+                        9
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "tp"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "td"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        8,
+                        9
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "tp"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        6
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        6
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        4,
+                        5,
+                        6
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "physique",
+                    "prof": [
+                        "TF",
+                        "AT"
+                    ],
+                    "type": "tp"
+                },
+                {
+                    "constraints": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "informatique",
+                    "prof": [
+                        "PA"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        4,
+                        5,
+                        6
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "physique",
+                    "prof": [
+                        "TF",
+                        "AT"
+                    ],
+                    "type": "tp"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "informatique",
+                    "prof": [
+                        "PA"
+                    ],
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "td"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "physique",
+                    "prof": [
+                        "KR"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "lv2",
+                    "prof": [
+                        "Unknown"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "physique",
+                    "prof": [
+                        "KR"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "lv2",
+                    "prof": [
+                        "Unknown"
+                    ],
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        6
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mecanique",
+                    "prof": [
+                        "MB"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "informatique",
+                    "prof": [
+                        "AP",
+                        "PA"
+                    ],
+                    "type": "info"
+                },
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "communication",
+                    "prof": [
+                        "AL"
+                    ],
+                    "type": "td"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        6
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mecanique",
+                    "prof": [
+                        "MB"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "informatique",
+                    "prof": [
+                        "AP",
+                        "PA"
+                    ],
+                    "type": "info"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "communication",
+                    "prof": [
+                        "AL"
+                    ],
+                    "type": "td"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "physique",
+                    "prof": [
+                        "KR"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "physique",
+                    "prof": [
+                        "KR"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "DS",
+                    "prof": [
+                        "surveillant"
+                    ],
+                    "type": "ds"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "DS",
+                    "prof": [
+                        "surveillant"
+                    ],
+                    "type": "ds"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        3,
+                        4
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        3,
+                        4
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "td"
+                }
+            ]
+        ],
+        [],
+        [
+            [
+                {
+                    "constraints": [
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "anglais",
+                    "prof": [
+                        "IO"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "anglais",
+                    "prof": [
+                        "IO"
+                    ],
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        7
+                    ],
+                    "division": 1,
+                    "duration": 4,
+                    "name": " ",
+                    "prof": [
+                        " "
+                    ],
+                    "type": "free"
+                },
+                {
+                    "constraints": [
+                        7
+                    ],
+                    "division": 1,
+                    "duration": 4,
+                    "name": " ",
+                    "prof": [
+                        " "
+                    ],
+                    "type": "free"
+                }
+            ]
+        ]
+    ],
+    [
+        [
+            [
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "physique",
+                    "prof": [
+                        "KR"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        4,
+                        5,
+                        6
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "physique",
+                    "prof": [
+                        "TF",
+                        "AT"
+                    ],
+                    "type": "tp"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "physique",
+                    "prof": [
+                        "KR"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        4,
+                        5,
+                        6
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "physique",
+                    "prof": [
+                        "TF",
+                        "AT"
+                    ],
+                    "type": "tp"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        6
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        6
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        7
+                    ],
+                    "division": 1,
+                    "duration": 4,
+                    "name": " ",
+                    "prof": [
+                        " "
+                    ],
+                    "type": "free"
+                },
+                {
+                    "constraints": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "informatique",
+                    "prof": [
+                        "PA"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        7
+                    ],
+                    "division": 1,
+                    "duration": 4,
+                    "name": " ",
+                    "prof": [
+                        " "
+                    ],
+                    "type": "free"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "informatique",
+                    "prof": [
+                        "PA"
+                    ],
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "td"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        3,
+                        4
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "lv2",
+                    "prof": [
+                        "Unknown"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "DS",
+                    "prof": [
+                        "surveillant"
+                    ],
+                    "type": "ds"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        3,
+                        4
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "td"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "lv2",
+                    "prof": [
+                        "Unknown"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "DS",
+                    "prof": [
+                        "surveillant"
+                    ],
+                    "type": "ds"
+                }
+            ]
+        ],
+        [],
+        [
+            [
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "anglais",
+                    "prof": [
+                        "IO"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "anglais",
+                    "prof": [
+                        "IO"
+                    ],
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        8,
+                        9
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "tp"
+                },
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "physique",
+                    "prof": [
+                        "KR"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        6
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mecanique",
+                    "prof": [
+                        "MB"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "td"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        8,
+                        9
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "tp"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "physique",
+                    "prof": [
+                        "KR"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        6
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mecanique",
+                    "prof": [
+                        "MB"
+                    ],
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "RC"
+                    ],
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "informatique",
+                    "prof": [
+                        "AP",
+                        "PA"
+                    ],
+                    "type": "info"
+                },
+                {
+                    "constraints": [
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "informatique",
+                    "prof": [
+                        "AP",
+                        "PA"
+                    ],
+                    "type": "info"
+                },
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "communication",
+                    "prof": [
+                        "AL"
+                    ],
+                    "type": "td"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "communication",
+                    "prof": [
+                        "AL"
+                    ],
+                    "type": "td"
+                }
+            ]
+        ]
+    ],
+    [
+        [
+            [
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "physique",
+                    "prof": [
+                        "KR"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "physique",
+                    "prof": [
+                        "KR"
+                    ],
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "TF"
+                    ],
+                    "type": "tp"
+                },
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "TF"
+                    ],
+                    "type": "tp"
+                },
+                {
+                    "constraints": [
+                        4,
+                        5,
+                        6
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "physique",
+                    "prof": [
+                        "TF",
+                        "AT"
+                    ],
+                    "type": "tp"
+                },
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "anglais",
+                    "prof": [
+                        "IO"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "lv2",
+                    "prof": [
+                        "Unknown"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        4,
+                        5,
+                        6
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "physique",
+                    "prof": [
+                        "TF",
+                        "AT"
+                    ],
+                    "type": "tp"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "anglais",
+                    "prof": [
+                        "IO"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "lv2",
+                    "prof": [
+                        "Unknown"
+                    ],
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        5
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "DS",
+                    "prof": [
+                        "surveillant"
+                    ],
+                    "type": "ds"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        5
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "DS",
+                    "prof": [
+                        "surveillant"
+                    ],
+                    "type": "ds"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "td"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "td"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "td"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        8,
+                        9
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        8,
+                        9
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        5,
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        5,
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "physique",
+                    "prof": [
+                        "KR"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        7
+                    ],
+                    "division": 1,
+                    "duration": 4,
+                    "name": " ",
+                    "prof": [
+                        " "
+                    ],
+                    "type": "free"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "physique",
+                    "prof": [
+                        "KR"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        7
+                    ],
+                    "division": 1,
+                    "duration": 4,
+                    "name": " ",
+                    "prof": [
+                        " "
+                    ],
+                    "type": "free"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        4,
+                        5,
+                        6
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "informatique",
+                    "prof": [
+                        "AP",
+                        "PA"
+                    ],
+                    "type": "tp"
+                },
+                {
+                    "constraints": [
+                        5,
+                        6
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "communication",
+                    "prof": [
+                        "AL"
+                    ],
+                    "type": "tp"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        4,
+                        5,
+                        6
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "informatique",
+                    "prof": [
+                        "AP",
+                        "PA"
+                    ],
+                    "type": "tp"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        5,
+                        6
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "communication",
+                    "prof": [
+                        "AL"
+                    ],
+                    "type": "tp"
+                }
+            ]
+        ],
+        [],
+        [
+            [
+                {
+                    "constraints": [
+                        8,
+                        9
+                    ],
+                    "division": 2,
+                    "duration": 1,
+                    "name": "informatique",
+                    "prof": [
+                        "PA"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        8,
+                        9
+                    ],
+                    "division": 2,
+                    "duration": 1,
+                    "name": "informatique",
+                    "prof": [
+                        "PA"
+                    ],
+                    "type": "cm"
+                }
+            ]
+        ]
+    ],
+    [
+        [
+            [
+                {
+                    "constraints": [
+                        8,
+                        9
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        8,
+                        9
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "TF"
+                    ],
+                    "type": "tp"
+                },
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "TF"
+                    ],
+                    "type": "tp"
+                },
+                {
+                    "constraints": [
+                        7
+                    ],
+                    "division": 1,
+                    "duration": 4,
+                    "name": " ",
+                    "prof": [
+                        " "
+                    ],
+                    "type": "free"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        7
+                    ],
+                    "division": 1,
+                    "duration": 4,
+                    "name": " ",
+                    "prof": [
+                        " "
+                    ],
+                    "type": "free"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "td"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "physique",
+                    "prof": [
+                        "KR"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "lv2",
+                    "prof": [
+                        "Unknown"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "physique",
+                    "prof": [
+                        "KR"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "lv2",
+                    "prof": [
+                        "Unknown"
+                    ],
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        4,
+                        5,
+                        6
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "physique",
+                    "prof": [
+                        "TF",
+                        "AT"
+                    ],
+                    "type": "tp"
+                },
+                {
+                    "constraints": [
+                        4,
+                        5,
+                        6
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "physique",
+                    "prof": [
+                        "TF",
+                        "AT"
+                    ],
+                    "type": "tp"
+                },
+                {
+                    "constraints": [
+                        8,
+                        9
+                    ],
+                    "division": 2,
+                    "duration": 1,
+                    "name": "informatique",
+                    "prof": [
+                        "PA"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        5,
+                        6
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "communication",
+                    "prof": [
+                        "AL"
+                    ],
+                    "type": "tp"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        8,
+                        9
+                    ],
+                    "division": 2,
+                    "duration": 1,
+                    "name": "informatique",
+                    "prof": [
+                        "PA"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        5,
+                        6
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "communication",
+                    "prof": [
+                        "AL"
+                    ],
+                    "type": "tp"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        2,
+                        3
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "td"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "td"
+                }
+            ]
+        ],
+        [],
+        [
+            [
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        0,
+                        1
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        5,
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "td"
+                },
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "physique",
+                    "prof": [
+                        "KR"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        4,
+                        5,
+                        6
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "informatique",
+                    "prof": [
+                        "AP",
+                        "PA"
+                    ],
+                    "type": "tp"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        5,
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 2,
+                    "duration": 2,
+                    "name": "SI",
+                    "prof": [
+                        "GJ"
+                    ],
+                    "type": "td"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        4,
+                        5
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "physique",
+                    "prof": [
+                        "KR"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        4,
+                        5,
+                        6
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "informatique",
+                    "prof": [
+                        "AP",
+                        "PA"
+                    ],
+                    "type": "tp"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "constraints": [
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        6,
+                        8,
+                        9
+                    ],
+                    "division": 1,
+                    "duration": 1,
+                    "name": "mathematics",
+                    "prof": [
+                        "NM"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "anglais",
+                    "prof": [
+                        "IO"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "constraints": [
+                        5
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "DS",
+                    "prof": [
+                        "surveillant"
+                    ],
+                    "type": "ds"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        1,
+                        2
+                    ],
+                    "division": 3,
+                    "duration": 2,
+                    "name": "anglais",
+                    "prof": [
+                        "IO"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "constraints": [
+                        5
+                    ],
+                    "division": 1,
+                    "duration": 2,
+                    "name": "DS",
+                    "prof": [
+                        "surveillant"
+                    ],
+                    "type": "ds"
+                }
+            ]
+        ],
+        []
+    ]
+]

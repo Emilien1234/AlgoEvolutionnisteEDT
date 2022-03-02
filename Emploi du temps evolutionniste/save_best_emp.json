@@ -1,0 +1,555 @@
+[
+    [
+        [
+            [
+                {
+                    "contrainte": -1,
+                    "divisions": 1,
+                    "duration": 2,
+                    "groupe": 0,
+                    "name": "anglais",
+                    "prof": "PE",
+                    "salle": "p1",
+                    "type": "cm"
+                },
+                {
+                    "contrainte": -1,
+                    "divisions": 1,
+                    "duration": 2,
+                    "groupe": 0,
+                    "name": "anglais",
+                    "prof": "PE",
+                    "salle": "p1",
+                    "type": "cm"
+                },
+                {
+                    "contrainte": -1,
+                    "divisions": 3,
+                    "duration": 1,
+                    "groupe": [
+                        "G1",
+                        "G2",
+                        "G3"
+                    ],
+                    "name": "physique",
+                    "prof": [
+                        "PE",
+                        "P2"
+                    ],
+                    "salle": "p1",
+                    "type": "cm"
+                },
+                {
+                    "contrainte": -1,
+                    "divisions": 2,
+                    "duration": 3,
+                    "groupe": [
+                        "G1",
+                        "G2"
+                    ],
+                    "name": "informatique",
+                    "prof": [
+                        "PE",
+                        "P2"
+                    ],
+                    "salle": "p1",
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "contrainte": -1,
+                    "divisions": 3,
+                    "duration": 1,
+                    "groupe": [
+                        "G1",
+                        "G2",
+                        "G3"
+                    ],
+                    "name": "physique",
+                    "prof": [
+                        "PE",
+                        "P2"
+                    ],
+                    "salle": "p1",
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "contrainte": -1,
+                    "divisions": 2,
+                    "duration": 3,
+                    "groupe": [
+                        "G1",
+                        "G2"
+                    ],
+                    "name": "informatique",
+                    "prof": [
+                        "PE",
+                        "P2"
+                    ],
+                    "salle": "p1",
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "contrainte": -1,
+                    "divisions": 2,
+                    "duration": 1,
+                    "groupe": [
+                        "G1",
+                        "G2"
+                    ],
+                    "name": "informatique",
+                    "prof": [
+                        "PE",
+                        "P2"
+                    ],
+                    "salle": "p1",
+                    "type": "cm"
+                },
+                {
+                    "contrainte": -1,
+                    "divisions": 2,
+                    "duration": 1,
+                    "groupe": [
+                        "G1",
+                        "G2"
+                    ],
+                    "name": "informatique",
+                    "prof": [
+                        "PE",
+                        "P2"
+                    ],
+                    "salle": "p1",
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "contrainte": -1,
+                    "divisions": 1,
+                    "duration": 1,
+                    "groupe": 0,
+                    "name": "comunication",
+                    "prof": "cm",
+                    "salle": "p1",
+                    "type": "cm"
+                },
+                {
+                    "contrainte": -1,
+                    "divisions": 1,
+                    "duration": 1,
+                    "groupe": 0,
+                    "name": "comunication",
+                    "prof": "cm",
+                    "salle": "p1",
+                    "type": "cm"
+                },
+                {
+                    "contrainte": -1,
+                    "divisions": 1,
+                    "duration": 1,
+                    "groupe": 0,
+                    "name": "anglais",
+                    "prof": "PE",
+                    "salle": "p1",
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "contrainte": -1,
+                    "divisions": 1,
+                    "duration": 1,
+                    "groupe": 0,
+                    "name": "anglais",
+                    "prof": "PE",
+                    "salle": "p1",
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "contrainte": -1,
+                    "divisions": 1,
+                    "duration": 1,
+                    "groupe": 0,
+                    "name": "SI",
+                    "prof": "RM",
+                    "salle": "p1",
+                    "type": "cm"
+                },
+                {
+                    "contrainte": -1,
+                    "divisions": 1,
+                    "duration": 1,
+                    "groupe": 0,
+                    "name": "SI",
+                    "prof": "RM",
+                    "salle": "p1",
+                    "type": "cm"
+                },
+                {
+                    "contrainte": -1,
+                    "divisions": 4,
+                    "duration": 1,
+                    "groupe": [
+                        "G1",
+                        "G2",
+                        "G3",
+                        "G4"
+                    ],
+                    "name": "maths",
+                    "prof": [
+                        "PE",
+                        "P2"
+                    ],
+                    "salle": [
+                        "p1",
+                        "p2"
+                    ],
+                    "type": "cm"
+                },
+                {
+                    "contrainte": -1,
+                    "divisions": 1,
+                    "duration": 1,
+                    "groupe": 0,
+                    "name": "SI",
+                    "prof": "RM",
+                    "salle": "p1",
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "contrainte": -1,
+                    "divisions": 4,
+                    "duration": 1,
+                    "groupe": [
+                        "G1",
+                        "G2",
+                        "G3",
+                        "G4"
+                    ],
+                    "name": "maths",
+                    "prof": [
+                        "PE",
+                        "P2"
+                    ],
+                    "salle": [
+                        "p1",
+                        "p2"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "contrainte": -1,
+                    "divisions": 1,
+                    "duration": 1,
+                    "groupe": 0,
+                    "name": "SI",
+                    "prof": "RM",
+                    "salle": "p1",
+                    "type": "cm"
+                }
+            ]
+        ],
+        [],
+        [
+            [
+                {
+                    "contrainte": 5,
+                    "divisions": 1,
+                    "duration": 2,
+                    "groupe": 0,
+                    "name": "maths soutient",
+                    "prof": "PA",
+                    "salle": "p1",
+                    "type": "cm"
+                },
+                {
+                    "contrainte": 5,
+                    "divisions": 1,
+                    "duration": 2,
+                    "groupe": 0,
+                    "name": "maths soutient",
+                    "prof": "PA",
+                    "salle": "p1",
+                    "type": "cm"
+                },
+                {
+                    "contrainte": -1,
+                    "divisions": 3,
+                    "duration": 2,
+                    "groupe": [
+                        "G1",
+                        "G2",
+                        "G3"
+                    ],
+                    "name": "physique",
+                    "prof": [
+                        "PE",
+                        "P2"
+                    ],
+                    "salle": "p1",
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "contrainte": -1,
+                    "divisions": 3,
+                    "duration": 2,
+                    "groupe": [
+                        "G1",
+                        "G2",
+                        "G3"
+                    ],
+                    "name": "physique",
+                    "prof": [
+                        "PE",
+                        "P2"
+                    ],
+                    "salle": "p1",
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "contrainte": 6,
+                    "divisions": 1,
+                    "duration": 2,
+                    "groupe": 0,
+                    "name": "DS",
+                    "prof": "SU",
+                    "salle": "p1",
+                    "type": "cm"
+                },
+                {
+                    "contrainte": 6,
+                    "divisions": 1,
+                    "duration": 2,
+                    "groupe": 0,
+                    "name": "DS",
+                    "prof": "SU",
+                    "salle": "p1",
+                    "type": "cm"
+                },
+                {
+                    "contrainte": -1,
+                    "divisions": 4,
+                    "duration": 4,
+                    "groupe": [
+                        "G1",
+                        "G2",
+                        "G3",
+                        "G4"
+                    ],
+                    "name": "maths",
+                    "prof": [
+                        "PE",
+                        "P2"
+                    ],
+                    "salle": [
+                        "p1",
+                        "p2"
+                    ],
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "contrainte": -1,
+                    "divisions": 4,
+                    "duration": 4,
+                    "groupe": [
+                        "G1",
+                        "G2",
+                        "G3",
+                        "G4"
+                    ],
+                    "name": "maths",
+                    "prof": [
+                        "PE",
+                        "P2"
+                    ],
+                    "salle": [
+                        "p1",
+                        "p2"
+                    ],
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "contrainte": -1,
+                    "divisions": 3,
+                    "duration": 1,
+                    "groupe": [
+                        "G1",
+                        "G2",
+                        "G3"
+                    ],
+                    "name": "physique",
+                    "prof": [
+                        "PE",
+                        "P2"
+                    ],
+                    "salle": "p1",
+                    "type": "cm"
+                },
+                {
+                    "contrainte": -1,
+                    "divisions": 3,
+                    "duration": 1,
+                    "groupe": [
+                        "G1",
+                        "G2",
+                        "G3"
+                    ],
+                    "name": "physique",
+                    "prof": [
+                        "PE",
+                        "P2"
+                    ],
+                    "salle": "p1",
+                    "type": "cm"
+                },
+                {
+                    "contrainte": -1,
+                    "divisions": 2,
+                    "duration": 1,
+                    "groupe": [
+                        "G1",
+                        "G2"
+                    ],
+                    "name": "informatique",
+                    "prof": [
+                        "PE",
+                        "P2"
+                    ],
+                    "salle": "p1",
+                    "type": "cm"
+                }
+            ],
+            [
+                {
+                    "contrainte": -1,
+                    "divisions": 2,
+                    "duration": 1,
+                    "groupe": [
+                        "G1",
+                        "G2"
+                    ],
+                    "name": "informatique",
+                    "prof": [
+                        "PE",
+                        "P2"
+                    ],
+                    "salle": "p1",
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "contrainte": -1,
+                    "divisions": 1,
+                    "duration": 3,
+                    "groupe": 0,
+                    "name": "mandarin",
+                    "prof": "PM",
+                    "salle": "p1",
+                    "type": "cm"
+                },
+                {
+                    "contrainte": -1,
+                    "divisions": 1,
+                    "duration": 3,
+                    "groupe": 0,
+                    "name": "mandarin",
+                    "prof": "PM",
+                    "salle": "p1",
+                    "type": "cm"
+                }
+            ]
+        ],
+        [
+            [
+                {
+                    "contrainte": -1,
+                    "divisions": 1,
+                    "duration": 1,
+                    "groupe": 0,
+                    "name": "SI",
+                    "prof": "RM",
+                    "salle": "p1",
+                    "type": "cm"
+                },
+                {
+                    "contrainte": -1,
+                    "divisions": 1,
+                    "duration": 1,
+                    "groupe": 0,
+                    "name": "SI",
+                    "prof": "RM",
+                    "salle": "p1",
+                    "type": "cm"
+                }
+            ]
+        ]
+    ],
+    [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ]
+]

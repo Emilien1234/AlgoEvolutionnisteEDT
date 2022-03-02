@@ -1,0 +1,78 @@
+{
+  "cours": {
+    "maths": {
+      "heure": 5,
+      "prof": [ "PE", "P2" ],
+      "type": "cm",
+      "salle": [ "p1", "p2" ],
+      "contrainte": -1,
+      "divisions": 4,
+      "groupe": [ "G1", "G2", "G3", "G4" ]
+
+    },
+    "physique": {
+      "heure": 4,
+      "prof": [ "PE", "P2" ],
+      "type": "cm",
+      "salle": "p1",
+      "contrainte": -1,
+      "divisions": 3,
+      "groupe": [ "G1", "G2", "G3" ]
+    },
+    "informatique": {
+      "heure": 5,
+      "prof": [ "PE", "P2" ],
+      "type": "cm",
+      "salle": "p1",
+      "contrainte": -1,
+      "divisions": 2,
+      "groupe": [ "G1", "G2" ]
+
+    },
+    "SI": {
+      "heure": 3,
+      "prof": "RM",
+      "type": "cm",
+      "salle": "p1",
+      "contrainte": -1
+    },
+    "anglais": {
+      "heure": 3,
+      "prof": "PE",
+      "type": "cm",
+      "salle": "p1",
+      "contrainte": -1
+    },
+    "mandarin": {
+      "heure": 3,
+      "prof": "PM",
+      "type": "cm",
+      "salle": "p1",
+      "contrainte": -1
+    },
+    "comunication": {
+      "heure": 1,
+      "prof": "cm",
+      "type": "cm",
+      "salle": "p1",
+      "contrainte": -1
+    },
+    "DS": {
+      "heure": 2,
+      "prof": "SU",
+      "type": "perm",
+      "salle": "p1",
+      "contrainte": 6
+    },
+    "maths soutient": {
+      "heure": 2,
+      "prof": "PA",
+      "type": "cm",
+      "salle": "p1",
+      "contrainte": 5
+    }
+  }
+}
+		
+			
+	
